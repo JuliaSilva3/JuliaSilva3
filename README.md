@@ -9,8 +9,7 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><br/>
 
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-goncalves-s) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JuliaSilva3&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSilva3&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
